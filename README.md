@@ -1,0 +1,2 @@
+# scheduling-volunteers
+Description: Organisations in need of volunteers need a better system to communicate with their volunteers. They need an efficient way of getting volunteers to sign up (See the Helping Occasionally case), but they also need an sms-service reminding the volunteers of what session they signed up for, an email system to communicate with volunteers, and an easy way to extract info (name, contact details etc) of all the volunteers to each session.
